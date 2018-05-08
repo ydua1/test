@@ -6,6 +6,8 @@ var gamePlay = function(game) {};
 gamePlay.prototype = {
 	var addition;
 	addition = 1;
+	var subtition;
+	subtition = -1;
 }
 
 var gameOver = function(game) {};
