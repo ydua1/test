@@ -3,7 +3,10 @@ var titleScreen = function(game) {}; // title screen state
 titleScreen.prototype = {}
 
 var gamePlay = function(game) {};
-gamePlay.prototype = {}
+gamePlay.prototype = {
+	var addition;
+	addition = 1;
+}
 
 var gameOver = function(game) {};
 gameOver.prototype = {}
