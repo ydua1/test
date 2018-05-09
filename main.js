@@ -8,6 +8,14 @@ gamePlay.prototype = {
 	addition = 1;
 	var subtition;
 	subtition = -1;
+
+	var githubcode;
+	githubcode = 7;
+	
+	var pullrequest;
+	pullrequest = "wow";
+	var realtest;
+	realtest = 1;
 }
 
 var gameOver = function(game) {};
