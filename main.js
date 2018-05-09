@@ -8,6 +8,9 @@ gamePlay.prototype = {
 	addition = 1;
 	var subtition;
 	subtition = -1;
+
+	var realtest1;
+	realtest1 = 1;
 }
 
 var gameOver = function(game) {};
