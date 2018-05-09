@@ -9,6 +9,8 @@ gamePlay.prototype = {
 	var subtition;
 	subtition = -1;
 
+	var githubcode;
+	githubcode = 7;
 	var realtest;
 	realtest = 1;
 }
