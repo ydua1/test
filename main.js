@@ -11,6 +11,9 @@ gamePlay.prototype = {
 
 	var githubcode;
 	githubcode = 7;
+	
+	var pullrequest;
+	pullrequest = "wow";
 	var realtest;
 	realtest = 1;
 }
